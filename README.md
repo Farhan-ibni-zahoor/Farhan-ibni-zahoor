@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farhan-ibni-zahoor
 - 👀 I’m interested in football,coding etc
-- 🌱 I’m currently learning HTML, JS, CSS,p5
+- 🌱 I’m currently learning Data Analysis 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? you can can contact me on mail farhanwhtjr1234@gmail.com
 
